@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3125270251.index
+173121586.index
+4220510424.index
+3205806975.index
+1983700874.index
+2697374522.index
+2762227911.index
+405547494.index

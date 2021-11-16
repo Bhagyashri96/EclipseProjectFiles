@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2418583976.index
+\SpringTestPractClassConfig\src
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\637935872.index
+\SimpleSpringMVC\src\main\resources
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2974544738.index
+\SpringTestPractClassConfig\src
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1399711252.index
+\SpringTestPractClassConfig\src\main\java
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3661811117.index
+\SpringTestPractClassConfig\src\main\java
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1112696239.index
+\SpringTestPract\src\main\resources
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3921612058.index
+\SpringTestPract\src\main\java
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3052240223.index
+\SpringTestPractClassConfig\src\main\java
+C:\Users\Bhagyashri.Patil\Desktop\myData\my_practise\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2195433499.index
+\springMVCPractise\src\main\resources

@@ -1,0 +1,30 @@
+
+public class SwapTwoNoWithoutTemp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int n1 = 10;
+		int  n2 = 11;
+		
+		System.out.println("Before swapping - n1:"+ n1+" ,n2:"+n2);
+		
+	    n1 = n1+ n2;
+	    n2 = n1-n2;
+	    n1 = n1 -n2;
+		
+		
+		System.out.println("After swapping -n1:"+ n1+" ,n2 "+n2);
+		
+		Integer i = 1;
+		Integer j = 1;
+		
+		if (i == j) {
+			System.out.println("true");
+		}else {
+			System.out.println("false");
+		}
+		
+	}
+
+}
